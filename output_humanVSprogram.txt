@@ -1,0 +1,319 @@
+Move 1 - Capital's move: g1h3
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . N
+P P P P P P P P
+R N B Q K B . R
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . N
+P P P P P P P P
+R N B Q K B . R
+Your move (small letters): g7g5
+Move 2 - Your move: g7g5
+r n b q k b n r
+p p p p p p . p
+. . . . . . . .
+. . . . . . p .
+. . . . . . . .
+. . . . . . . N
+P P P P P P P P
+R N B Q K B . R
+Move 3 - Capital's move: h3g5
+r n b q k b n r
+p p p p p p . p
+. . . . . . . .
+. . . . . . N .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B . R
+r n b q k b n r
+p p p p p p . p
+. . . . . . . .
+. . . . . . N .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B . R
+Your move (small letters): h7h5
+Move 4 - Your move: h7h5
+r n b q k b n r
+p p p p p p . .
+. . . . . . . .
+. . . . . . N p
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B . R
+Move 5 - Capital's move: e2e3
+r n b q k b n r
+p p p p p p . .
+. . . . . . . .
+. . . . . . N p
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+r n b q k b n r
+p p p p p p . .
+. . . . . . . .
+. . . . . . N p
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+Your move (small letters): h4g4
+Invalid move. Please try again.
+Legal moves: ['h8h7', 'h8h6', 'g8h6', 'g8f6', 'f8g7', 'f8h6', 'b8c6', 'b8a6', 'f7f6', 'e7e6', 'd7d6', 'c7c6', 'b7b6', 'a7a6', 'h5h4', 'f7f5', 'e7e5', 'd7d5', 'c7c5', 'b7b5', 'a7a5']
+r n b q k b n r
+p p p p p p . .
+. . . . . . . .
+. . . . . . N p
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+Your move (small letters): h5g5
+Invalid move. Please try again.
+Legal moves: ['h8h7', 'h8h6', 'g8h6', 'g8f6', 'f8g7', 'f8h6', 'b8c6', 'b8a6', 'f7f6', 'e7e6', 'd7d6', 'c7c6', 'b7b6', 'a7a6', 'h5h4', 'f7f5', 'e7e5', 'd7d5', 'c7c5', 'b7b5', 'a7a5']
+r n b q k b n r
+p p p p p p . .
+. . . . . . . .
+. . . . . . N p
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+Your move (small letters): f7f6
+Move 6 - Your move: f7f6
+r n b q k b n r
+p p p p p . . .
+. . . . . p . .
+. . . . . . N p
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+Move 7 - Capital's move: g5e4
+r n b q k b n r
+p p p p p . . .
+. . . . . p . .
+. . . . . . . p
+. . . . N . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+r n b q k b n r
+p p p p p . . .
+. . . . . p . .
+. . . . . . . p
+. . . . N . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+Your move (small letters): g8h7
+Invalid move. Please try again.
+Legal moves: ['h8h7', 'h8h6', 'g8h6', 'f8g7', 'f8h6', 'e8f7', 'b8c6', 'b8a6', 'e7e6', 'd7d6', 'c7c6', 'b7b6', 'a7a6', 'f6f5', 'h5h4', 'e7e5', 'd7d5', 'c7c5', 'b7b5', 'a7a5']
+r n b q k b n r
+p p p p p . . .
+. . . . . p . .
+. . . . . . . p
+. . . . N . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+Your move (small letters): d7d5
+Move 8 - Your move: d7d5
+r n b q k b n r
+p p p . p . . .
+. . . . . p . .
+. . . p . . . p
+. . . . N . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+Move 9 - Capital's move: e4f6
+r n b q k b n r
+p p p . p . . .
+. . . . . N . .
+. . . p . . . p
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+r n b q k b n r
+p p p . p . . .
+. . . . . N . .
+. . . p . . . p
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+Your move (small letters): h8h6
+Invalid move. Please try again.
+Legal moves: ['e8f7', 'g8f6', 'e7f6']
+r n b q k b n r
+p p p . p . . .
+. . . . . N . .
+. . . p . . . p
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+Your move (small letters): e8f7
+Move 10 - Your move: e8f7
+r n b q . b n r
+p p p . p k . .
+. . . . . N . .
+. . . p . . . p
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+Move 11 - Capital's move: f6g8
+r n b q . b N r
+p p p . p k . .
+. . . . . . . .
+. . . p . . . p
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+r n b q . b N r
+p p p . p k . .
+. . . . . . . .
+. . . p . . . p
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+Your move (small letters): h8g8
+Move 12 - Your move: h8g8
+r n b q . b r .
+p p p . p k . .
+. . . . . . . .
+. . . p . . . p
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B Q K B . R
+Move 13 - Capital's move: d1h5
+r n b q . b r .
+p p p . p k . .
+. . . . . . . .
+. . . p . . . Q
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B . R
+r n b q . b r .
+p p p . p k . .
+. . . . . . . .
+. . . p . . . Q
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B . R
+Your move (small letters): g8g5
+Invalid move. Please try again.
+Legal moves: ['f7g7', 'f7f6', 'f7e6', 'g8g6']
+r n b q . b r .
+p p p . p k . .
+. . . . . . . .
+. . . p . . . Q
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B . R
+Your move (small letters): f7g7
+Move 14 - Your move: f7g7
+r n b q . b r .
+p p p . p . k .
+. . . . . . . .
+. . . p . . . Q
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B . R
+Move 15 - Capital's move: h5g5
+r n b q . b r .
+p p p . p . k .
+. . . . . . . .
+. . . p . . Q .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B . R
+r n b q . b r .
+p p p . p . k .
+. . . . . . . .
+. . . p . . Q .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B . R
+Your move (small letters): f7g8
+Invalid move. Please try again.
+Legal moves: ['g7h8', 'g7h7', 'g7f7']
+r n b q . b r .
+p p p . p . k .
+. . . . . . . .
+. . . p . . Q .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B . R
+Your move (small letters): g7h8
+Move 16 - Your move: g7h8
+r n b q . b r k
+p p p . p . . .
+. . . . . . . .
+. . . p . . Q .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B . R
+Move 17 - Capital's move: g5h5
+r n b q . b r k
+p p p . p . . .
+. . . . . . . .
+. . . p . . . Q
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B . R
+r n b q . b r k
+p p p . p . . .
+. . . . . . . .
+. . . p . . . Q
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B . R
+Your move (small letters): f8h6
+Move 18 - Your move: f8h6
+r n b q . . r k
+p p p . p . . .
+. . . . . . . b
+. . . p . . . Q
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B . R
+Move 19 - Capital's move: h5h6
+r n b q . . r k
+p p p . p . . .
+. . . . . . . Q
+. . . p . . . .
+. . . . . . . .
+. . . . P . . .
+P P P P . P P P
+R N B . K B . R
+Game over. Result: 1-0 

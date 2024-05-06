@@ -1,0 +1,838 @@
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+P P P P P P P P
+R N B Q K B N R
+Capital's move: g2g3
+r n b q k b n r
+p p p p p p p p
+. . . . . . . .
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P . P
+R N B Q K B N R
+Small's move: g8h6
+r n b q k b . r
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P . P
+R N B Q K B N R
+Capital's move: f1h3
+r n b q k b . r
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q K . N R
+Small's move: h8g8
+r n b q k b r .
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q K . N R
+Capital's move: e1f1
+Move 5 - Last move: e1f1
+r n b q k b r .
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q . K N R
+Small's move: g8h8
+r n b q k b . r
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q . K N R
+Capital's move: f1e1
+r n b q k b . r
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q K . N R
+Small's move: h8g8
+r n b q k b r .
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q K . N R
+Capital's move: e1f1
+r n b q k b r .
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q . K N R
+Small's move: g8h8
+Move 10 - Last move: g8h8
+r n b q k b . r
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q . K N R
+Capital's move: f1e1
+r n b q k b . r
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q K . N R
+Small's move: h8g8
+r n b q k b r .
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q K . N R
+Capital's move: e1f1
+r n b q k b r .
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q . K N R
+Small's move: g8h8
+r n b q k b . r
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q . K N R
+Capital's move: f1e1
+Move 15 - Last move: f1e1
+r n b q k b . r
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q K . N R
+Small's move: h8g8
+r n b q k b r .
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q K . N R
+Capital's move: e1f1
+r n b q k b r .
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q . K N R
+Small's move: g8h8
+r n b q k b . r
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q . K N R
+Capital's move: f1e1
+r n b q k b . r
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q K . N R
+Small's move: h8g8
+Move 20 - Last move: h8g8
+r n b q k b r .
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R N B Q K . N R
+Capital's move: b1c3
+r n b q k b r .
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . N . . . P B
+P P P P P P . P
+R . B Q K . N R
+Small's move: g8h8
+r n b q k b . r
+p p p p p p p p
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . N . . . P B
+P P P P P P . P
+R . B Q K . N R
+Capital's move: c3d5
+r n b q k b . r
+p p p p p p p p
+. . . . . . . n
+. . . N . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q K . N R
+Small's move: f7f6
+r n b q k b . r
+p p p p p . p p
+. . . . . p . n
+. . . N . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q K . N R
+Capital's move: d5f6
+Move 25 - Last move: d5f6
+r n b q k b . r
+p p p p p . p p
+. . . . . N . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q K . N R
+Small's move: e8f7
+r n b q . b . r
+p p p p p k p p
+. . . . . N . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q K . N R
+Capital's move: f6h7
+r n b q . b . r
+p p p p p k p N
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q K . N R
+Small's move: h8g8
+r n b q . b r .
+p p p p p k p N
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q K . N R
+Capital's move: h7f8
+r n b q . N r .
+p p p p p k p .
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q K . N R
+Small's move: g8h8
+Move 30 - Last move: g8h8
+r n b q . N . r
+p p p p p k p .
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q K . N R
+Capital's move: f8h7
+r n b q . . . r
+p p p p p k p N
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q K . N R
+Small's move: h8g8
+r n b q . . r .
+p p p p p k p N
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q K . N R
+Capital's move: h7g5
+r n b q . . r .
+p p p p p k p .
+. . . . . . . n
+. . . . . . N .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q K . N R
+Small's move: f7f8
+r n b q . k r .
+p p p p p . p .
+. . . . . . . n
+. . . . . . N .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q K . N R
+Capital's move: g5h7
+Move 35 - Last move: g5h7
+r n b q . k r .
+p p p p p . p N
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q K . N R
+Small's move: f8e8
+r n b q k . r .
+p p p p p . p N
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q K . N R
+Capital's move: e1f1
+r n b q k . r .
+p p p p p . p N
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q . K N R
+Small's move: g8h8
+r n b q k . . r
+p p p p p . p N
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q . K N R
+Capital's move: h7f6
+r n b q k . . r
+p p p p p . p .
+. . . . . N . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q . K N R
+Small's move: e8f8
+Move 40 - Last move: e8f8
+r n b q . k . r
+p p p p p . p .
+. . . . . N . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q . K N R
+Capital's move: f6h5
+r n b q . k . r
+p p p p p . p .
+. . . . . . . n
+. . . . . . . N
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q . K N R
+Small's move: h8g8
+r n b q . k r .
+p p p p p . p .
+. . . . . . . n
+. . . . . . . N
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q . K N R
+Capital's move: h5f4
+r n b q . k r .
+p p p p p . p .
+. . . . . . . n
+. . . . . . . .
+. . . . . N . .
+. . . . . . P B
+P P P P P P . P
+R . B Q . K N R
+Small's move: g8h8
+r n b q . k . r
+p p p p p . p .
+. . . . . . . n
+. . . . . . . .
+. . . . . N . .
+. . . . . . P B
+P P P P P P . P
+R . B Q . K N R
+Capital's move: f4g6
+Move 45 - Last move: f4g6
+r n b q . k . r
+p p p p p . p .
+. . . . . . N n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q . K N R
+Small's move: f8g8
+r n b q . . k r
+p p p p p . p .
+. . . . . . N n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q . K N R
+Capital's move: g6h8
+r n b q . . k N
+p p p p p . p .
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q . K N R
+Small's move: g8f8
+r n b q . k . N
+p p p p p . p .
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q . K N R
+Capital's move: h8g6
+r n b q . k . .
+p p p p p . p .
+. . . . . . N n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q . K N R
+Small's move: f8g8
+Move 50 - Last move: f8g8
+r n b q . . k .
+p p p p p . p .
+. . . . . . N n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P B
+P P P P P P . P
+R . B Q . K N R
+Capital's move: h3g2
+r n b q . . k .
+p p p p p . p .
+. . . . . . N n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: g8h7
+r n b q . . . .
+p p p p p . p k
+. . . . . . N n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: g6e5
+r n b q . . . .
+p p p p p . p k
+. . . . . . . n
+. . . . N . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: d8h8
+r n b . . . . q
+p p p p p . p k
+. . . . . . . n
+. . . . N . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: e5d7
+Move 55 - Last move: e5d7
+r n b . . . . q
+p p p N p . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: h8g8
+r n b . . . q .
+p p p N p . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: d7b8
+r N b . . . q .
+p p p . p . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: g8h8
+r N b . . . . q
+p p p . p . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: b8d7
+r . b . . . . q
+p p p N p . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: h8g8
+Move 60 - Last move: h8g8
+r . b . . . q .
+p p p N p . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: d7c5
+r . b . . . q .
+p p p . p . p k
+. . . . . . . n
+. . N . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: g8h8
+r . b . . . . q
+p p p . p . p k
+. . . . . . . n
+. . N . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: c5b7
+r . b . . . . q
+p N p . p . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: h8g8
+r . b . . . q .
+p N p . p . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: b7d8
+Move 65 - Last move: b7d8
+r . b N . . q .
+p . p . p . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: g8h8
+r . b N . . . q
+p . p . p . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: d8c6
+r . b . . . . q
+p . p . p . p k
+. . N . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: h8g8
+r . b . . . q .
+p . p . p . p k
+. . N . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: c6e7
+r . b . . . q .
+p . p . N . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: g8h8
+Move 70 - Last move: g8h8
+r . b . . . . q
+p . p . N . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: e7d5
+r . b . . . . q
+p . p . . . p k
+. . . . . . . n
+. . . N . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: h8g8
+r . b . . . q .
+p . p . . . p k
+. . . . . . . n
+. . . N . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: d5c7
+r . b . . . q .
+p . N . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: g8h8
+r . b . . . . q
+p . N . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: c7a8
+Move 75 - Last move: c7a8
+N . b . . . . q
+p . . . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: h8g8
+N . b . . . q .
+p . . . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: a8c7
+. . b . . . q .
+p . N . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: g8h8
+. . b . . . . q
+p . N . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: c7a8
+N . b . . . . q
+p . . . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: h8g8
+Move 80 - Last move: h8g8
+N . b . . . q .
+p . . . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: a8c7
+. . b . . . q .
+p . N . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: g8h8
+. . b . . . . q
+p . N . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: c7a8
+N . b . . . . q
+p . . . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: h8g8
+N . b . . . q .
+p . . . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: a8c7
+Move 85 - Last move: a8c7
+. . b . . . q .
+p . N . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: g8h8
+. . b . . . . q
+p . N . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: c7a8
+N . b . . . . q
+p . . . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: h8g8
+N . b . . . q .
+p . . . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: a8c7
+. . b . . . q .
+p . N . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Small's move: g8h8
+Move 90 - Last move: g8h8
+. . b . . . . q
+p . N . . . p k
+. . . . . . . n
+. . . . . . . .
+. . . . . . . .
+. . . . . . P .
+P P P P P P B P
+R . B Q . K N R
+Capital's move: c7a8
+Game over. Result: 1/2-1/2
